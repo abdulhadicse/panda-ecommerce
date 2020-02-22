@@ -1,0 +1,26 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.orange_bg
+{
+    background-color: #FEEAE9;
+    border-radius: 8px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #DC1A5F;
+}
+
+.click_btn{
+    padding: 9px 25px;
+    background-image: linear-gradient(to Bottom, #FF589F 0%, #FF136F 100%);
+    color: white;
+    border: 0px;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
