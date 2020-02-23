@@ -16,11 +16,63 @@
     color: #DC1A5F;
 }
 
-.click_btn{
+.click_btn,.click_btn1{
     padding: 9px 25px;
     background-image: linear-gradient(to Bottom, #FF589F 0%, #FF136F 100%);
     color: white;
     border: 0px;
     border-radius: 8px;
     text-transform: uppercase;
+}
+
+.bg-watch{
+    background-image: linear-gradient(to left, #E5972A 0%, #EDC629 100%);
+    border-radius: 9px;
+    margin-bottom: 8px;
+}
+
+.bg-bag{
+    background-image: linear-gradient(to Bottom, #FF589F 0%, #F23079 100%);
+    border-radius: 9px;
+    margin-bottom: 8px;
+}
+
+.bg-shoes{
+    background-image: linear-gradient(to Bottom, #3D6FF6 0%, #3A14FF 100%);
+    border-radius: 9px;
+    margin-bottom: 8px;
+}
+
+.bg-watch h1, .bg-bag h1, .bg-shoes h1{
+    color: white;
+    padding-left: 12px;
+}
+
+.bg-watch img, .bg-bag img, .bg-shoes img{
+    width: 30%;
+}
+
+.price_color{
+    color: #F23079;
+}
+
+.card{
+    box-shadow: 2px 2px 2px gray;
+}
+
+.orange_bg h1{
+    padding: 20px 0px 0px 0px;
+}
+
+.click_btn1{
+    padding: 6px 15px;
+    margin-left: 5px;
+}
+
+.bg-bttm{
+    margin-bottom: 30px;
+}
+
+footer .container {
+    margin-bottom: 0px;
 }
